@@ -2,5 +2,3 @@
 # We so far have woof translated into hello but still need the program to read that and much more.
 
 
-
-Contributor: Jessica Maldonado; I deciphered dog language 
