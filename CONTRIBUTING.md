@@ -3,4 +3,4 @@
 
 
 
-Contributor: Jessic Maldonado; I deciphered dog language 
+Contributor: Jessica Maldonado; I deciphered dog language 
